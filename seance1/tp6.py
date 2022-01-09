@@ -1,7 +1,7 @@
 """
 1)
 
-Write a function that returns random numbers between 1 and 100
+Write a function that returns random number between 1 and 100
 
 Hint: use random.randint to generate ranndom integers
 
